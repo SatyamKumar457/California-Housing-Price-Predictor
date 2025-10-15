@@ -76,4 +76,11 @@ Key features used:
 ---
 
 ## 📂 Repository Structure
-
+California-Housing-Price-Predictor/
+│
+├─ data/ # Dataset files
+├─ notebooks/ # Jupyter notebooks for EDA & modeling
+├─ models/ # Saved ML models
+├─ graphs/ # Visualization outputs
+├─ README.md # Project documentation
+└─ requirements.txt # Python dependencies
