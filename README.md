@@ -70,17 +70,39 @@ Key features used:
 
 - Integrate **Deep Learning models** for higher accuracy.  
 - Build a **Web Interface** using Flask or Streamlit for real-time predictions.  
-- Add **Interactive Maps** with Plotly or Folium to explore price distributions.  
+- Add **Interactive Maps** with Plotly or Folium to explore price distributions. 
 - Incorporate additional data like **school ratings** and **economic indicators**.  
 
 ---
 
 ## 📂 Repository Structure
 California-Housing-Price-Predictor/
-│
-├─ data/ # Dataset files
-├─ notebooks/ # Jupyter notebooks for EDA & modeling
-├─ models/ # Saved ML models
-├─ graphs/ # Visualization outputs
-├─ README.md # Project documentation
-└─ requirements.txt # Python dependencies
+- │
+- ├─ data/ # Dataset files
+- ├─ notebooks/ # Jupyter notebooks for EDA & modeling
+- ├─ models/ # Saved ML models
+- ├─ graphs/ # Visualization outputs
+- ├─ README.md # Project documentation
+- └─ requirements.txt # Python dependencies
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! You can help by:  
+
+- Improving the model  
+- Adding new visualizations  
+- Developing a web interface  
+- Optimizing code for efficiency  
+
+---
+
+## 📌 License
+
+This project is open-source and available under the **[MIT License](LICENSE)**.
+
+---
+
+✨ Feel free to ⭐ the repository if you find it useful!
