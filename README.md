@@ -49,17 +49,20 @@ Key features used:
 ![CALIFORNIA](Graphs/Califorina_Latitude_vs_Longitude.png)  
 *Latitude VS Longitude of all the houses taken.*
 
-![Feature Importance](Graphs/California_Latitude_vs_Longitude_with_Median_house_pricing.png)  
+![Feature Importance](Graphs/California_Latitude_vs_Longitude_with_Population.png)  
 *Mapping of the houses with population.*
 
-![Feature Importance](Graphs/California_Latitude_vs_Longitude_with_Population.png)  
+![Feature Importance](Graphs/California_Latitude_vs_Longitude_with_Population_with_Colours.png)  
 *Mapping of the houses with population in colours.*
 
-![Feature Importance](Graphs/Correlation_of_all_the_parameters_with_Median_salary.png)  
+![Feature Importance](Graphs/Correlation_of_all_the_parameters.png)  
 *Correlation of Parameters.*
 
-![Feature Importance](graphs/feature_importance.png)  
-*Most influential features affecting housing prices.*
+![Feature Importance](Graphs/Median_house_value_vs_Median_income.png)  
+*Median House Value VS Median Value.*
+
+![Feature Importance](Graphs/Correlation_with_derived_data_with_Median_income.png)  
+*Correaltion of Derived Data with Median Income.*
 
 ---
 
